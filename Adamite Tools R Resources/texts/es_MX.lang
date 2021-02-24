@@ -1,0 +1,27 @@
+##bridge-file-version: #1
+pack.name=Recursos de Herramientas de Adamita
+pack.description=¡Este paquete de recursos hará herramientas de adamita personalizadas, armaduras y ore!
+tile.csadamite:adamite_block.name=Adamite Block
+tile.csadamite:adamite_block=Adamite Block
+tile.csadamite:adamite_ore.name=Adamite Ore
+tile.csadamite:adamite_ore=Adamite Ore
+item.csadamite:adamite.name=Adamite
+item.csadamite:adamite=Adamite
+item.csadamite:adamite_sword.name=Adamite Sword
+item.csadamite:adamite_sword=Adamite Sword
+item.csadamite:adamite_pickaxe.name=Adamite Pickaxe
+item.csadamite:adamite_pickaxe=Adamite Pickaxe
+item.csadamite:adamite_axe.name=Adamite Axe
+item.csadamite:adamite_axe=Adamite Axe
+item.csadamite:adamite_shovel.name=Adamite Shovel
+item.csadamite:adamite_shovel=Adamite Shovel
+item.csadamite:adamite_hoe.name=Adamite Hoe
+item.csadamite:adamite_hoe=Adamite Hoe
+item.csadamite:adamite_boots.name=Adamite Boots
+item.csadamite:adamite_boots=Adamite Boots
+item.csadamite:adamite_chestplate.name=Adamite Chestplate
+item.csadamite:adamite_chestplate=Adamite Chestplate
+item.csadamite:adamite_helmet.name=Adamite Helmet
+item.csadamite:adamite_helmet=Adamite Helmet
+item.csadamite:adamite_leggings.name=Adamite Leggings
+item.csadamite:adamite_leggings=Adamite Leggings

@@ -1,0 +1,23 @@
+//bridge-file-version: #0
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csadamite:adamite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "csadamite:adamite_block"
+			}
+		},
+		"result": {
+			"item": "csadamite:adamite"
+		}
+	}
+}

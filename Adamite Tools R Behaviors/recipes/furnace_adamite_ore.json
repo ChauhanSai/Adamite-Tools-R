@@ -1,0 +1,15 @@
+//bridge-file-version: #1
+{
+	"format_version": 1.12,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csadamite:furnace_adamite_ore"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "csadamite:adamite_ore",
+		"output": "csadamite:adamite"
+	}
+}

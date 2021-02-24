@@ -1,0 +1,316 @@
+{
+	"RP/ Resources/blocks.json": {
+		"data": {}
+	},
+	"BP/loot_tables/adamite_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/adamite_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/adamite_block.json": {
+		"data": {}
+	},
+	"RP/ Resources/textures/blocks/adamite_block.png": {
+		"data": {}
+	},
+	"RP/ Resources/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"26a2744a_4f71_473e_8a8d_11df4e6d563a": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"0647dd8f_58bd_47b0_b96e_a994e2aef302": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"2368d776_eb65_43fb_93c5_621a865f4ef4": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"b6f3945a_fc86_4956_b411_f94cd743c2bd": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"6d705a99_1f8b_4c42_8f61_64fd872f88d8": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"f78d8b73_a281_439c_97bf_e8f8cf2df1fd": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"fb8f7ae2_7022_4b0e_a51d_dcfba1bc1c2e": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"ce3e3502_f253_4eb0_8a41_c4f8e58f034b": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"0fb4b3d3_41f1_4f26_a877_b7276d3d4d30": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"299bbf88_86ce_482e_8a7c_88452c9e30c4": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"cdea38df_5a67_4ada_9418_554c224408d2": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"6654f92c_99e9_4acf_8041_5920446e4fa6": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"d0fa66ea_1af5_4648_a509_12de07704e69": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"7e1a00ff_023f_4d99_870c_6c146f88bcef": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"fe6423d6_c217_4f3a_a98c_ece21eda00c3": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"bc49115d_37d0_417b_8142_ebb86fe08df3": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"438f5073_9bc6_479f_89ef_0aee947c7840": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"2767d2b5_82ac_46ae_9be0_890fd607da99": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"7d2ec748_f5e2_420f_81b6_bb93aa771c33": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"RP/ Resources/textures/item_texture.json": {
+		"data": {}
+	},
+	"RP/ Resources/items/adamite.json": {
+		"data": {}
+	},
+	"BP/items/adamite.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_block.json": {
+		"data": {}
+	},
+	"BP/recipes/furnace_adamite_ore.json": {
+		"data": {}
+	},
+	"BP/items/adamite_sword.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_sword.json": {
+		"data": {}
+	},
+	"BP/texts/languages.json": {
+		"data": {}
+	},
+	"BP/items/adamite_pickaxe.json": {
+		"data": {}
+	},
+	"BP/items/adamite_shovel.json": {
+		"data": {}
+	},
+	"BP/items/adamite_hoe.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_hoe.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_shovel.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_axe.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_pickaxe.json": {
+		"data": {}
+	},
+	"BP/items/adamite_helmet.json": {
+		"data": {}
+	},
+	"BP/items/adamite_boots.json": {
+		"data": {}
+	},
+	"BP/items/adamite_leggings.json": {
+		"data": {}
+	},
+	"BP/items/adamite_chestplate.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_boots.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_helmet.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_chestplate.json": {
+		"data": {}
+	},
+	"BP/recipes/adamite_leggings.json": {
+		"data": {}
+	},
+	"RP/ Resources/items/adamite_boots.json": {
+		"data": {}
+	},
+	"RP/ Resources/items/adamite_chestplate.json": {
+		"data": {}
+	},
+	"RP/ Resources/items/adamite_leggings.json": {
+		"data": {}
+	},
+	"BP/items/adamite_axe.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"RP/ Resources/manifest.json": {
+		"data": {}
+	},
+	"RP/ Resources/attachables/adamite_helmet.json": {
+		"data": {}
+	},
+	"RP/ Resources/attachables/adamite_helmet.player.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/features/adamite_ore_feature.json": {
+		"data": {}
+	},
+	"BP/feature_rules/overwold_underground_adamite_ore_feature.json": {
+		"data": {}
+	}
+}

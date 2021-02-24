@@ -1,0 +1,165 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Adamite Tools R\\items\\adamite_helmet.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "2767d2b5_82ac_46ae_9be0_890fd607da99",
+	"file_version": 6,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "csadamite:adamite_helmet",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:stacked_by_data": true,
+							"minecraft:armor": {
+								"protection": 5,
+								"texture_type": "diamond"
+							},
+							"minecraft:wearable": {
+								"slot": "slot.armor.head"
+							},
+							"minecraft:icon": {
+								"texture": "adamite_helmet"
+							},
+							"minecraft:durability": {
+								"max_durability": 3600
+							},
+							"minecraft:enchantable": {
+								"slot": "armor_head",
+								"value": 10
+							},
+							"minecraft:repairable": {
+								"repair_items": [
+									{
+										"items": [
+											"csadamite:adamite"
+										],
+										"repair_amount": 5
+									}
+								]
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.helmet"
+							},
+							"minecraft:display_name": {
+								"value": "Adamite Helmet"
+							}
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csadamite:adamite_helmet",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csadamite:adamite_helmet",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:stacked_by_data": true,
+								"minecraft:armor": {
+									"protection": 5,
+									"texture_type": "diamond"
+								},
+								"minecraft:wearable": {
+									"slot": "slot.armor.head"
+								},
+								"minecraft:icon": {
+									"texture": "adamite_helmet"
+								},
+								"minecraft:durability": {
+									"max_durability": 3600
+								},
+								"minecraft:enchantable": {
+									"slot": "armor_head",
+									"value": 10
+								},
+								"minecraft:repairable": {
+									"repair_items": [
+										{
+											"items": [
+												"csadamite:adamite"
+											],
+											"repair_amount": 5
+										}
+									]
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.helmet"
+								},
+								"minecraft:display_name": {
+									"value": "Adamite Helmet"
+								}
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:stacked_by_data": true,
+							"minecraft:armor": {
+								"protection": 5,
+								"texture_type": "diamond"
+							},
+							"minecraft:wearable": {
+								"slot": "slot.armor.head"
+							},
+							"minecraft:icon": {
+								"texture": "adamite_helmet"
+							},
+							"minecraft:durability": {
+								"max_durability": 3600
+							},
+							"minecraft:enchantable": {
+								"slot": "armor_head",
+								"value": 10
+							},
+							"minecraft:repairable": {
+								"repair_items": [
+									{
+										"items": [
+											"csadamite:adamite"
+										],
+										"repair_amount": 5
+									}
+								]
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.helmet"
+							},
+							"minecraft:display_name": {
+								"value": "Adamite Helmet"
+							}
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

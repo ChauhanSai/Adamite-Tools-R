@@ -1,0 +1,15 @@
+//bridge-file-version: #0
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"adamite_ore": {
+			"textures": "textures/blocks/adamite_ore"
+		},
+		"adamite_block": {
+			"textures": "textures/blocks/adamite_block"
+		}
+	}
+}

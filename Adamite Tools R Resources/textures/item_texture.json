@@ -1,0 +1,37 @@
+//bridge-file-version: #8
+{
+	"resource_pack_name": "csadamite",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"adamite": {
+			"textures": "textures/items/adamite"
+		},
+		"adamite_sword": {
+			"textures": "textures/items/adamite_sword"
+		},
+		"adamite_pickaxe": {
+			"textures": "textures/items/adamite_pickaxe"
+		},
+		"adamite_axe": {
+			"textures": "textures/items/adamite_axe"
+		},
+		"adamite_shovel": {
+			"textures": "textures/items/adamite_shovel"
+		},
+		"adamite_hoe": {
+			"textures": "textures/items/adamite_hoe"
+		},
+		"adamite_boots": {
+			"textures": "textures/items/adamite_boots"
+		},
+		"adamite_helmet": {
+			"textures": "textures/items/adamite_helmet"
+		},
+		"adamite_leggings": {
+			"textures": "textures/items/adamite_leggings"
+		},
+		"adamite_chestplate": {
+			"textures": "textures/items/adamite_chestplate"
+		}
+	}
+}

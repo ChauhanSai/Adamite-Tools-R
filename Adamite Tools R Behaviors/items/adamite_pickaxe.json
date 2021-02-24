@@ -1,0 +1,72 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "csadamite:adamite_pickaxe",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:durability": {
+				"max_durability": 3600
+			},
+			"minecraft:hand_equipped": true,
+			"minecraft:damage": 3,
+			"minecraft:stacked_by_data": true,
+			"minecraft:can_destroy_in_creative": true,
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.pickaxe"
+			},
+			"minecraft:icon": {
+				"texture": "adamite_pickaxe"
+			},
+			"minecraft:display_name": {
+				"value": "Adamite Pickaxe"
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": [
+							"csadamite:adamite"
+						],
+						"repair_amount": 5
+					}
+				]
+			},
+			"minecraft:enchantable": {
+				"slot": "pickaxe",
+				"value": 10
+			},
+			"minecraft:mining_speed": 8,
+			"minecraft:digger": {
+				"use_efficiency": true,
+				"destroy_speeds": [
+					{
+						"block": {
+							"tags": "q.any_tag('stone', 'metal', 'diamond_pick_diggable')"
+						},
+						"speed": 8
+					},
+					{
+						"block": "minecraft:ice",
+						"speed": 8
+					},
+					{
+						"block": "minecraft:sandstone",
+						"speed": 8
+					},
+					{
+						"block": "csadamite:adamite_block",
+						"speed": 8
+					},
+					{
+						"block": "csadamite:adamite_ore",
+						"speed": 8
+					}
+				]
+			}
+		},
+		"events": {}
+	}
+}

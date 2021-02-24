@@ -1,0 +1,210 @@
+{
+	"block": {
+		"BP/blocks/adamite_ore.json": {
+			"identifiers": [
+				"csadamite:adamite_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": [],
+			"custom_commands": []
+		},
+		"BP/blocks/adamite_block.json": {
+			"identifiers": [
+				"csadamite:adamite_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": [],
+			"custom_commands": []
+		}
+	},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/adamite.json": {
+			"identifiers": [
+				"csadamite:adamite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_sword.json": {
+			"identifiers": [
+				"csadamite:adamite_sword"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_pickaxe.json": {
+			"identifiers": [
+				"csadamite:adamite_pickaxe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_shovel.json": {
+			"identifiers": [
+				"csadamite:adamite_shovel"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_hoe.json": {
+			"identifiers": [
+				"csadamite:adamite_hoe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_helmet.json": {
+			"identifiers": [
+				"csadamite:adamite_helmet"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_boots.json": {
+			"identifiers": [
+				"csadamite:adamite_boots"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_leggings.json": {
+			"identifiers": [
+				"csadamite:adamite_leggings"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_chestplate.json": {
+			"identifiers": [
+				"csadamite:adamite_chestplate"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adamite_axe.json": {
+			"identifiers": [
+				"csadamite:adamite_axe"
+			],
+			"custom_commands": []
+		}
+	},
+	"recipe": {
+		"BP/recipes/adamite_block.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/furnace_adamite_ore.json": {
+			"tags": [
+				"furnace",
+				"blast_furnace"
+			]
+		},
+		"BP/recipes/adamite_sword.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_hoe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_shovel.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_axe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_pickaxe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_boots.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_helmet.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_chestplate.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adamite_leggings.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	},
+	"function": {
+		"f78d8b73_a281_439c_97bf_e8f8cf2df1fd": {},
+		"fb8f7ae2_7022_4b0e_a51d_dcfba1bc1c2e": {},
+		"ce3e3502_f253_4eb0_8a41_c4f8e58f034b": {},
+		"0fb4b3d3_41f1_4f26_a877_b7276d3d4d30": {}
+	},
+	"attachable": {
+		"RP/ Resources/attachables/adamite_helmet.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/ Resources/attachables/adamite_helmet.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		}
+	},
+	"feature": {
+		"BP/features/adamite_ore_feature.json": {
+			"identifiers": [
+				"csadamite:adamite_ore_feature"
+			]
+		}
+	},
+	"feature_rule": {
+		"BP/feature_rules/overwold_underground_adamite_ore_feature.json": {
+			"identifiers": [
+				"csadamite:overwold_underground_adamite_ore_feature"
+			]
+		}
+	}
+}

@@ -1,0 +1,25 @@
+//bridge-file-version: #2
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csadamite:adamite_chestplate"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"X X",
+			"XXX",
+			"XXX"
+		],
+		"key": {
+			"X": {
+				"item": "csadamite:adamite"
+			}
+		},
+		"result": {
+			"item": "csadamite:adamite_chestplate"
+		}
+	}
+}

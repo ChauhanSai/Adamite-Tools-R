@@ -1,0 +1,195 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Adamite Tools R\\items\\adamite_sword.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "6654f92c_99e9_4acf_8041_5920446e4fa6",
+	"file_version": 21,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "csadamite:adamite_sword",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:durability": {
+								"max_durability": 3600
+							},
+							"minecraft:hand_equipped": true,
+							"minecraft:damage": 7,
+							"minecraft:stacked_by_data": true,
+							"minecraft:can_destroy_in_creative": false,
+							"minecraft:allow_off_hand": true,
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.sword"
+							},
+							"minecraft:icon": {
+								"texture": "adamite_sword"
+							},
+							"minecraft:display_name": {
+								"value": "Adamite Sword"
+							},
+							"minecraft:repairable": {
+								"repair_items": [
+									{
+										"items": [
+											"csadamite:adamite"
+										],
+										"repair_amount": 5
+									}
+								]
+							},
+							"minecraft:enchantable": {
+								"slot": "sword",
+								"value": 10
+							},
+							"minecraft:digger": {
+								"use_efficiency": false,
+								"destroy_speeds": [
+									{
+										"block": "minecraft:web",
+										"speed": 15
+									},
+									{
+										"block": "minecraft:bamboo",
+										"speed": 10
+									}
+								]
+							}
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csadamite:adamite_sword",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csadamite:adamite_sword",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:durability": {
+									"max_durability": 3600
+								},
+								"minecraft:hand_equipped": true,
+								"minecraft:damage": 7,
+								"minecraft:stacked_by_data": true,
+								"minecraft:can_destroy_in_creative": false,
+								"minecraft:allow_off_hand": true,
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.sword"
+								},
+								"minecraft:icon": {
+									"texture": "adamite_sword"
+								},
+								"minecraft:display_name": {
+									"value": "Adamite Sword"
+								},
+								"minecraft:repairable": {
+									"repair_items": [
+										{
+											"items": [
+												"csadamite:adamite"
+											],
+											"repair_amount": 5
+										}
+									]
+								},
+								"minecraft:enchantable": {
+									"slot": "sword",
+									"value": 10
+								},
+								"minecraft:digger": {
+									"use_efficiency": false,
+									"destroy_speeds": [
+										{
+											"block": "minecraft:web",
+											"speed": 15
+										},
+										{
+											"block": "minecraft:bamboo",
+											"speed": 10
+										}
+									]
+								}
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:durability": {
+								"max_durability": 3600
+							},
+							"minecraft:hand_equipped": true,
+							"minecraft:damage": 7,
+							"minecraft:stacked_by_data": true,
+							"minecraft:can_destroy_in_creative": false,
+							"minecraft:allow_off_hand": true,
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.sword"
+							},
+							"minecraft:icon": {
+								"texture": "adamite_sword"
+							},
+							"minecraft:display_name": {
+								"value": "Adamite Sword"
+							},
+							"minecraft:repairable": {
+								"repair_items": [
+									{
+										"items": [
+											"csadamite:adamite"
+										],
+										"repair_amount": 5
+									}
+								]
+							},
+							"minecraft:enchantable": {
+								"slot": "sword",
+								"value": 10
+							},
+							"minecraft:digger": {
+								"use_efficiency": false,
+								"destroy_speeds": [
+									{
+										"block": "minecraft:web",
+										"speed": 15
+									},
+									{
+										"block": "minecraft:bamboo",
+										"speed": 10
+									}
+								]
+							}
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}
