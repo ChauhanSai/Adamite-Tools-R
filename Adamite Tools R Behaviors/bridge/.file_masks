@@ -312,5 +312,8 @@
 	},
 	"BP/feature_rules/overwold_underground_adamite_ore_feature.json": {
 		"data": {}
+	},
+	"BP/recipes/adamite.json": {
+		"data": {}
 	}
 }

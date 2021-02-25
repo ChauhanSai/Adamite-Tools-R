@@ -1,5 +1,5 @@
-##bridge-file-version: #9
-pack.name=Adamite Tools
+##bridge-file-version: #10
+#pack.name=Adamite Tools Behaviors
 pack.description=This Behavior Pack will make custom adamite tools, armor, and ore!
 tile.csadamite:adamite_block.name=Adamite Block
 tile.csadamite:adamite_block=Adamite Block

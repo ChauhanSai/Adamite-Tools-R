@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
@@ -16,8 +16,11 @@
 				"item": "csadamite:adamite_block"
 			}
 		},
-		"result": {
-			"item": "csadamite:adamite"
-		}
+		"result": [
+			{
+				"item": "csadamite:adamite",
+				"count": 9
+			}
+		]
 	}
 }

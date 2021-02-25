@@ -157,6 +157,11 @@
 			"tags": [
 				"crafting_table"
 			]
+		},
+		"BP/recipes/adamite.json": {
+			"tags": [
+				"crafting_table"
+			]
 		}
 	},
 	"function": {

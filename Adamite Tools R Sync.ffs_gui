@@ -6,7 +6,7 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>TwoWay</Variant>
+        <Variant>Mirror</Variant>
         <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -20,6 +20,7 @@
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*\cache\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
